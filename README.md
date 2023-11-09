@@ -4,7 +4,9 @@
 
 </div>
 
-I'm a Master Student at TU Berlin, and a Research Assistant at Fraunhofer FOKUS. My main areas of study (and work) are machine learning and software development.
+I'm a Master Student at TU Berlin, and a Student Research Assistant at Fraunhofer FOKUS. My main areas of study (and work) are machine learning and software development.
+
+___
 
 I also enjoy cooking, especially with the open-source Nextcloud [Cookbook Client](https://github.com/VincentMeilinger/Nextcloud-Cookbook-iOS) iOS app 🍉. 
 If you happen to ...
@@ -15,9 +17,12 @@ If you happen to ...
 ... you should definitely check it out! 
 And who knows, if this ingenious application turns you into a seasoned home chef, consider contributing to it 😏!
 
-If you would rather like to look at stats, please enjoy mine:
+___
 
-![](https://github-readme-stats.vercel.app/api?username=VincentMeilinger&theme=radical&hide_border=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=VincentMeilinger&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=VincentMeilinger&theme=radical&hide_border=true)
+If you instead prefer to look at some rather disheartening stats, please enjoy mine:
 
+<div align="center">
+  
+[![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentMeilinger&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
