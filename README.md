@@ -26,3 +26,8 @@ If you instead prefer to look at some rather disheartening stats, please enjoy m
 [![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentMeilinger&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+___
+
+#### More
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vincent-meilinger-32b675151)
