@@ -18,9 +18,6 @@ If you happen to ...
 And who knows, if this ingenious application turns you into a seasoned home chef, consider contributing to it 😏!
 
 ___
-
-If you instead prefer to look at some rather disheartening stats, please enjoy mine:
-
 <div align="center">
   
 [![Vincent's GitHub stats](https://github-readme-stats.vercel.app/api?username=VincentMeilinger&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
