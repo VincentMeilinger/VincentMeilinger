@@ -15,7 +15,7 @@ If you happen to ...
 - [x] have already set up the Nextcloud Cookbook cloud service
   
 ... you should definitely check it out! 
-And who knows, if this ingenious application turns you into a seasoned home chef, consider contributing to it 😏!
+And who knows, if this ingenious application turns you into a seasoned home chef, consider contributing 😏!
 
 ___
 <div align="center">
